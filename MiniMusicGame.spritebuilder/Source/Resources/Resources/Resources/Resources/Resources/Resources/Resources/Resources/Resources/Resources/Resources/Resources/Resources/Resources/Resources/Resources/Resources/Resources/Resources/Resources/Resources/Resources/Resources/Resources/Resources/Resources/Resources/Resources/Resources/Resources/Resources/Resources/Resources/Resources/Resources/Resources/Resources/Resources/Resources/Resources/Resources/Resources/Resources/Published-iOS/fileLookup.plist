@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filenames</key>
+	<dict>
+		<key>Audio/back_Music.wav</key>
+		<string>Audio/back_Music.caf</string>
+		<key>Audio/disappearing_note.wav</key>
+		<string>Audio/disappearing_note.caf</string>
+		<key>Audio/fail_touched_note.wav</key>
+		<string>Audio/fail_touched_note.caf</string>
+		<key>Audio/failure.wav</key>
+		<string>Audio/failure.caf</string>
+		<key>Audio/hideOption.wav</key>
+		<string>Audio/hideOption.caf</string>
+		<key>Audio/piano_A.wav</key>
+		<string>Audio/piano_A.caf</string>
+		<key>Audio/piano_A_sharp_B_flat.wav</key>
+		<string>Audio/piano_A_sharp_B_flat.caf</string>
+		<key>Audio/piano_B.wav</key>
+		<string>Audio/piano_B.caf</string>
+		<key>Audio/piano_C#6.wav</key>
+		<string>Audio/piano_C#6.caf</string>
+		<key>Audio/piano_C.wav</key>
+		<string>Audio/piano_C.caf</string>
+		<key>Audio/piano_C6.wav</key>
+		<string>Audio/piano_C6.caf</string>
+		<key>Audio/piano_C_sharp_D_flat.wav</key>
+		<string>Audio/piano_C_sharp_D_flat.caf</string>
+		<key>Audio/piano_D.wav</key>
+		<string>Audio/piano_D.caf</string>
+		<key>Audio/piano_D_sharp_E_flat.wav</key>
+		<string>Audio/piano_D_sharp_E_flat.caf</string>
+		<key>Audio/piano_E.wav</key>
+		<string>Audio/piano_E.caf</string>
+		<key>Audio/piano_F.wav</key>
+		<string>Audio/piano_F.caf</string>
+		<key>Audio/piano_F_sharp_G_flat.wav</key>
+		<string>Audio/piano_F_sharp_G_flat.caf</string>
+		<key>Audio/piano_G.wav</key>
+		<string>Audio/piano_G.caf</string>
+		<key>Audio/piano_G_sharp_A_flat.wav</key>
+		<string>Audio/piano_G_sharp_A_flat.caf</string>
+		<key>Audio/press_button.wav</key>
+		<string>Audio/press_button.caf</string>
+		<key>Audio/specialSound.wav</key>
+		<string>Audio/specialSound.caf</string>
+		<key>Audio/successful.wav</key>
+		<string>Audio/successful.caf</string>
+		<key>Audio/timeSec.wav</key>
+		<string>Audio/timeSec.caf</string>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>

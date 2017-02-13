@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>start</key>
+		<string>Play</string>
+		<key>chooseGame</key>
+		<string>Choose your MiniGame!</string>
+		<key>pitch</key>
+		<string>Pitch Memory</string>
+		<key>readWrite</key>
+		<string>Tap it!</string>
+		<key>random</key>
+		<string>Color Touch</string>
+		<key>time</key>
+		<string>Time:</string>
+		<key>score</key>
+		<string>Score:</string>
+		<key>highScore</key>
+		<string>Highscore:</string>
+	</dict>
+	<dict>
+		<key>comenzar</key>
+		<string>Jugar</string>
+		<key>eligeJuego</key>
+		<string>¡Elige tu MiniJuego!</string>
+		<key>tono</key>
+		<string>MemoSonido</string>
+		<key>leeEscribe</key>
+		<string>¡Toca y gana!</string>
+		<key>azar</key>
+		<string>Toque de color</string>
+		<key>tiempo</key>
+		<string>Tiempo:</string>
+		<key>puntos</key>
+		<string>Puntos:</string>
+		<key>maxPuntos</key>
+		<string>Máx. Puntos:</string>
+	</dict>
+</array>
+</plist>

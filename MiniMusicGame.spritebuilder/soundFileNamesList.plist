@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Audio/piano_C.wav</string>
+	<string>Audio/piano_C_sharp_D_flat.wav</string>
+	<string>Audio/piano_D.wav</string>
+	<string>Audio/piano_D_sharp_E_flat.wav</string>
+	<string>Audio/piano_E.wav</string>
+	<string>Audio/piano_F.wav</string>
+	<string>Audio/piano_F_sharp_G_flat.wav</string>
+	<string>Audio/piano_G.wav</string>
+	<string>Audio/piano_G_sharp_A_flat.wav</string>
+	<string>Audio/piano_A.wav</string>
+	<string>Audio/piano_A_sharp_B_flat.wav</string>
+	<string>Audio/piano_B.wav</string>
+</array>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>C</key>
+	<array/>
+	<key>C# - Db</key>
+	<array/>
+	<key>D</key>
+	<array/>
+	<key>D# - Eb</key>
+	<array/>
+	<key>E</key>
+	<array/>
+	<key>F</key>
+	<array/>
+	<key>F# - Gb</key>
+	<array/>
+	<key>G</key>
+	<array/>
+	<key>G# - Ab</key>
+	<string></string>
+	<key>A</key>
+	<string></string>
+	<key>A# - Bb</key>
+	<string></string>
+	<key>B</key>
+	<string></string>
+</dict>
+</plist>
